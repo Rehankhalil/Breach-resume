@@ -1,0 +1,129 @@
+<!DOCTYPE HTML> 
+<HTML>
+<HEAD><TITLe>Breach RESUME</TITLe></HEAD>
+<STYLE>
+    .footer{
+        text-align: center;
+        padding: 10px;
+        background-color: #ddd;
+
+        
+    }
+    table{
+        width:100%;
+        border:1px solid black;
+    }
+dt{
+    font-weight: bold;
+    font-size: 1.4em;
+}
+section{
+    padding:10px ;
+border:1px solid black ;
+margin:10px ;
+}
+
+</STYLE>
+<BODY>
+    <HEADER class="header" ><H1> Breach RESUME</H1></HEADER>
+    <nav class="navbar" >
+        <UL>
+            <li><a href="#exp">experience</a></li>
+            <li><a href="#edu">eeducation</a></li>
+            <li><a href="#int">interests</a></li>
+            <li><a href="#ski">skills</a></li>
+            <li><a href="#con">contact</a></li>
+        </UL>
+    </nav>
+    <article> <p>WELCOME TO MY WEBSITE HOPE YOU DIDINT ENJOY</p>
+        <hr>
+     <P>my name is Breach</P>
+     <img src="https://th.bing.com/th/id/OIP.NAooW41INPBMK3F3KxSwGAHaEK?w=283&h=180&c=7&r=0&o=5&pid=1.7">
+    
+    </article>
+    <section id="exp">
+        <h2>Experience</h2>
+        <table>
+           <COLgroup>
+                <col span="1" style="background-color:#DDD ;">
+        
+        
+            </COLgroup>
+            <TR><TH>COMPANY</TH>
+                <TH>DETAILS</TH>
+                <TH>YEARS</TH>
+            </TR>
+            <TR><td>discovery</td>
+                <td>created courses</td>
+                <td>2002-2022</td>
+            </TR>
+            <TR><td>basescript</td>
+                <td>online learing</td>
+                <td>2010-2015</td>
+            </TR>
+            <TR><td>discovery</td>
+                <td>created courses</td>
+                <td>2002-2022</td>
+            </TR>
+            <TR><td>discovery</td>
+                <td>created courses</td>
+                <td>2002-2022</td>
+            </TR>
+
+        </table>
+      </section>
+      <section id="edu">
+        <h2>Education</h2>
+        <dl>
+            <dt>My University</dt>
+            <dd>MBA</dd>
+            <dt>Degree</dt>
+            <dd>Computer Science</dd>
+        </dl>
+    </section>
+    <section id="int">
+        <h2>Interests</h2>
+        <ul>    
+            <li>Computer</li>
+            <li>Gaming</li>
+            <li>Html</li>
+
+
+
+
+        </ul>
+        
+    </section>
+    <section id="ski">
+        <h2>Skills</h2>
+        <ol>
+            <li>Pagle bnana</li>
+            <li>Beezati krna</li>
+            <li>Khuawr hona</li>
+
+
+        </ol>
+        
+    </section>
+    <section id="con">
+        <h2>Contact me</h2>
+        <p>contact me at my email <a href="mailto:rehankhalil2017@gmail.com"> my email adress</a>
+
+        </p>
+        
+    </section>
+<footer class="footer" >blah bklah blah blah blha blah</footer>
+
+
+</BODY>
+
+
+
+
+
+
+
+
+
+
+</HTML>
